@@ -138,13 +138,7 @@ a {
 
 }
 
-.desc {
-    color: white;
-    font-family: 'VCR OSD Mono';
-    font-size: 25;
-    margin-top: 10;
-    
-}
+
 
 .img1 {
   float: left;
@@ -648,4 +642,8 @@ a {
   );
 }
 
-
+.linkz {
+  color: #2c6e49;
+  margin-top: 25;
+  font-family: 'Bitwise';
+}
